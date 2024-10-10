@@ -80,6 +80,8 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
                     alt="readme active graph" />
   </div>
 
+![Streaks de contributions](https://github-readme-streak-stats.herokuapp.com/?user=eliakimceleste&theme=dark)
+
 <!--
 **eliakimceleste/eliakimceleste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
