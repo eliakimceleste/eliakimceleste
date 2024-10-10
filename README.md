@@ -39,10 +39,17 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
 
 <!-- START NEW SECTION -->
 <h3 align="center">Social links</h3>
-
-[<img src='github.svg' alt='github' height='40'>](https://github.com/eliakimceleste)  [<img src='link.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eliakimceleste/)  [<img src='insta.svg' alt='instagram' height='40'>](https://www.instagram.com/eliakim_celeste/?hl=fr/)  
-
-
+<p align="center">
+    <a href="https://github.com/eliakimceleste" target="blank" > <img align="center"
+                        src="github.svg"
+                        alt="Eliakim GOUNON" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/eliakimceleste" target="blank" > <img align="center"
+                        src="link.svg"
+                        alt="Eliakim GOUNON" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/eliakim_celeste/?hl=fr/" target="blank" > <img align="center"
+                        src="insta.svg"
+                        alt="Eliakim GOUNON" height="30" width="40" /></a>
+</p>
 
 <!-- START NEW SECTION -->
 <div align="center">
