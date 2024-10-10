@@ -22,6 +22,12 @@
 <!--  <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
 </p>
 <hr>
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning about computer vision specialization
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about **Python, Machine Learning, Computer Vision**
+- 📫 How to reach me: **eliakimceleste@gmail.com**
 
 <!--
 **eliakimceleste/eliakimceleste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
