@@ -1,6 +1,6 @@
 ## Hi  👋 I'm Eliakim GOUNON😎
 
-<img align="right"  src='https://github.com/princeGedeon/ML-For-Beginners/blob/main/1-Introduction/1-intro-to-ML/images/ai-ml-ds.png' width='300'>
+<img align="right"  src='https://github.com/eliakimceleste/ML-For-Beginners/blob/main/1-Introduction/1-intro-to-ML/images/ai-ml-ds.png' width='300'>
 
 ### Machine Learning Specialist,Python Developper ,NestJS
 
@@ -81,9 +81,12 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
   </div>
 
 <br>
-  <div>
-    <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=eliakimceleste"><img src="https://github-profile-trophy.vercel.app/?username=eliakimceleste&theme=nord" alt="beethogedeon" /></a> </p>
-  </div>
+<h3 align="center">Github trophy</h3>
+
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=eliakimceleste)](https://github-profile-trophy.vercel.app/?username=eliakimceleste)
+
+
 
 <!--
 **eliakimceleste/eliakimceleste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
