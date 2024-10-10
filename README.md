@@ -15,9 +15,31 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
 - 📫 How to reach me: **eliakimceleste@gmail.com**
 
 
+    
+        <p align=center>
+        <div align=center>
+            <a href="https://github.com/eliakimceleste/eliakimceleste" title="Go to Source">
+                <img align="left" width=390
+                    src="https://github-readme-stats.vercel.app/api?username=eliakimceleste&show_icons=true&theme=codeSTACKr&hide_border=true"/>
+            </a>
+            <a href="https://github.com/eliakimceleste/eliakimceleste" title="Go to Source">
+                <img align="right" width=390
+                    src="https://github-readme-streak-stats.herokuapp.com?user=eliakimceleste&theme=codeSTACKr&hide_border=true&date_format=j/n/Y" />
+            </a>
+        </div>
+        <br><br><br><br><br><br><br><br><br>
+       
+        <div >
+            <p align="center">
+                <a href="https://github.com/eliakimceleste/CodeWhiz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eliakimceleste&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=CodeWhiz" alt="Readme Card"></a>
+
+            </p>
+        </div>
+
+
+
 <!-- START NEW SECTION -->
 <h3 align="center">Social links</h3>
-<div align="center">
 
 [<img src='github.svg' alt='github' height='40'>](https://github.com/eliakimceleste)  
 [<img src='link.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eliakimceleste/)  [<img src='insta.svg' alt='instagram' height='40'>](https://www.instagram.com/eliakim_celeste/?hl=fr/)  
