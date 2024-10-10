@@ -26,20 +26,21 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
         <img align="right" width=390
             src="https://github-readme-streak-stats.herokuapp.com?user=eliakimceleste&theme=codeSTACKr&hide_border=true&date_format=j/n/Y" />
     </a>
-    <a href="https://github.com/eliakimceleste/eliakimceleste" title="Go to Source">
-        <img align="right" width=390
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliakimceleste&layout=compact&theme=codeSTACKr&hide_border=true" />
-    </a>
+  
 </div>
 <br><br><br><br><br><br><br><br><br>
 
 <div >
     <p align="center">
+        <a href="https://github.com/eliakimceleste/eliakimceleste" title="Go to Source">
+        <img align="right" width=390
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliakimceleste&layout=compact&theme=codeSTACKr&hide_border=true" />
+        </a>
         <a href="https://github.com/eliakimceleste/CodeWhiz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eliakimceleste&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=CodeWhiz" alt="Readme Card"></a>
     </p>
 </div>
 
-
+<br><br><br>
 
 <!-- START NEW SECTION -->
 <h3 align="center">Social links</h3>
