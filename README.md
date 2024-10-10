@@ -20,7 +20,7 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
 <div align=center>
     <a href="https://github.com/eliakimceleste/eliakimceleste" title="Go to Source">
         <img align="left" width=390
-            src="https://github-readme-stats.vercel.app/api?username=eliakimceleste&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&since=2024-01-01T00:00:00Z"/>
+            src="https://github-readme-stats.vercel.app/api?username=eliakimceleste&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&since=2024-01-01T00:00:00Z&custom_title=GitHub%20Stars%20Stats"/>
     </a>
     <a href="https://github.com/eliakimceleste/eliakimceleste" title="Go to Source">
         <img align="right" width=390
