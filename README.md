@@ -1,9 +1,11 @@
 </div-->
     <div align ="center">
         <p>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow">
+         <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/7e675ea8-fabb-4fec-a006-1a0b6f4478fc" alt="HuggingFace">
         <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/5b25e63e-4838-45e4-b87f-ea5f734688af" alt="OpenCV">
-        <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/7e675ea8-fabb-4fec-a006-1a0b6f4478fc" alt="HuggingFace">
+        <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/8c167abf-edfc-4cd3-8a64-69a2064f19c3" alt="Langchain">
+        <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/699ba509-892a-4fb8-9d66-21ab7ee2a00b" alt="Tensorflow">
+        </p>
    
     </div>
 
