@@ -19,8 +19,8 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
 <h3 align="center">Social links</h3>
 <div align="center">
 
-[<img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg' alt='github' height='40'>](https://github.com/eliakimceleste)  
-[<img src='link.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eliakimceleste/)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/eliakim_celeste/?hl=fr/)  
+[<img src='github.svg' alt='github' height='40'>](https://github.com/eliakimceleste)  
+[<img src='link.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eliakimceleste/)  [<img src='insta.svg' alt='instagram' height='40'>](https://www.instagram.com/eliakim_celeste/?hl=fr/)  
 </div>
 
 <!-- START NEW SECTION -->
