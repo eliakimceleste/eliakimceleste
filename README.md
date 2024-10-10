@@ -6,14 +6,19 @@
 
 I am passionate about IT in general, more specifically programming. Creating applications, controlling systems remotely, and all this with code is what pushes me every day to explore the world of programming.
 
-Whatever the field, from **artificial intelligence** to **robotics**, including **web and desktop development**, I like handling code 😏😉
+Whatever the field, from **artificial intelligence** to **robotics**, including **web and desktop development**, I like handling code. 😏😉
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on some computer vision's systems
 - 🌱 I’m currently learning about computer vision specialization
 - 👯 I’m looking to collaborate on the projects about Computer vision
 - 💬 Ask me about **Python, Machine Learning, Computer Vision**
 - 📫 How to reach me: **eliakimceleste@gmail.com**
 
+
+<!-- START NEW SECTION -->
+### Social links
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eliakimceleste/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ged.prince/?hl=fr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/GedeonGuedje)
 
 
 <!-- START NEW SECTION -->
