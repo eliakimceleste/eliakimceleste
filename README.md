@@ -24,7 +24,7 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
     </a>
     <a href="https://github.com/eliakimceleste/eliakimceleste" title="Go to Source">
         <img align="right" width=390
-            src="https://github-readme-streak-stats.herokuapp.com?user=eliakimceleste&date_format=M%20j%5B%2C%20Y%5D&theme=codeSTACKr&hide_border=true&date_format=j/n/Y" />
+            src="https://github-readme-streak-stats.herokuapp.com?user=eliakimceleste&&date_format=M%20j%5B%2C%20Y%5D&theme=codeSTACKr&hide_border=true&date_format=j/n/Y" />
     </a>
   
 </div>
@@ -83,8 +83,9 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
             <h2 align="center"> 💻 Github Contributions :electron: </h2>
             <br>
             <div align="center">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=eliakimceleste&color=FF7F00&bg_color=09131B&line=FF7F00&point=FF7F00&area_color=000000&hide_border=true&area=true"
-                    alt="readme active graph" />
+                <img src="https://github-readme-activity-graph.cyclic.app/graph?username=eliakimceleste&color=FF7F00&bg_color=09131B&line=FF7F00&point=FF7F00&area_color=000000&hide_border=true&area=true"
+alt="readme active graph" />
+
   </div>
 
 
