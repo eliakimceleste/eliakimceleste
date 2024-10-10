@@ -2,7 +2,7 @@
 
 <img align="right"  src='https://github.com/princeGedeon/ML-For-Beginners/blob/main/1-Introduction/1-intro-to-ML/images/ai-ml-ds.png' width='300'>
 
-#### Machine Learning Specialist,Python Developper ,NestJS
+### Machine Learning Specialist,Python Developper ,NestJS
 
 I am passionate about IT in general, more specifically programming. Creating applications, controlling systems remotely, and all this with code is what pushes me every day to explore the world of programming.
 
@@ -19,7 +19,8 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
 <h3 align="center">Social links</h3>
 <div align="center">
 
-[<img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg' alt='github' height='40'>](https://github.com/eliakimceleste)  [<img src='https://www.google.com/imgres?q=linkedin%20image&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100064379813770&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FLinkedIn%2F&docid=I9QUtTnUHKwTGM&tbnid=hRVO_EXSa77khM&vet=12ahUKEwiPiICEo4SJAxUyElkFHVdCA8YQM3oECBYQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwiPiICEo4SJAxUyElkFHVdCA8YQM3oECBYQAA' alt='linkedin' height='40'>](https://www.linkedin.com/in/eliakimceleste/)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/eliakim_celeste/?hl=fr/)  
+[<img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg' alt='github' height='40'>](https://github.com/eliakimceleste)  
+[<img src='link.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eliakimceleste/)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/eliakim_celeste/?hl=fr/)  
 </div>
 
 <!-- START NEW SECTION -->
