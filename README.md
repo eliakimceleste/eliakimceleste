@@ -2,11 +2,15 @@
 
 <img align="right"  src='https://github.com/princeGedeon/ML-For-Beginners/blob/main/1-Introduction/1-intro-to-ML/images/ai-ml-ds.png' width='300'>
 
-<!-- <picture>
- <source media="(prefers-color-scheme: dark)" srcset="eli.jpg">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture> -->
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning about computer vision specialization
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about **Python, Machine Learning, Computer Vision**
+- 📫 How to reach me: **eliakimceleste@gmail.com**
+
+
+
 <!-- START NEW SECTION -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -22,12 +26,6 @@
 <!--  <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
 </p>
 <hr>
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning about computer vision specialization
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about **Python, Machine Learning, Computer Vision**
-- 📫 How to reach me: **eliakimceleste@gmail.com**
 
 <!--
 **eliakimceleste/eliakimceleste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
