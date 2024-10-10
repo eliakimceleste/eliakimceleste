@@ -1,3 +1,12 @@
+</div-->
+    <div align ="center">
+        <p>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow">
+        <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/5b25e63e-4838-45e4-b87f-ea5f734688af" alt="OpenCV">
+        <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/7e675ea8-fabb-4fec-a006-1a0b6f4478fc" alt="HuggingFace">
+   
+    </div>
+
 ## Hi  👋 I'm Eliakim GOUNON😎
 
 <img align="right"  src='https://github.com/eliakimceleste/ML-For-Beginners/blob/main/1-Introduction/1-intro-to-ML/images/ai-ml-ds.png' width='300'>
