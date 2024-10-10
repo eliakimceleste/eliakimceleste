@@ -1,11 +1,16 @@
-## Hi  👋
+## Hi  👋 I'm Eliakim GOUNON😎
 
 <img align="right"  src='https://github.com/princeGedeon/ML-For-Beginners/blob/main/1-Introduction/1-intro-to-ML/images/ai-ml-ds.png' width='300'>
 
+#### Machine Learning Specialist,Python Developper ,NestJS
+
+I am passionate about IT in general, more specifically programming. Creating applications, controlling systems remotely, and all this with code is what pushes me every day to explore the world of programming.
+
+Whatever the field, from **artificial intelligence** to **robotics**, including **web and desktop development**, I like handling code 😏😉
+
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning about computer vision specialization
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on the projects about Computer vision
 - 💬 Ask me about **Python, Machine Learning, Computer Vision**
 - 📫 How to reach me: **eliakimceleste@gmail.com**
 
