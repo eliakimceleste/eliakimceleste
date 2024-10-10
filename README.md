@@ -80,6 +80,11 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
                     alt="readme active graph" />
   </div>
 
+<br>
+  <div>
+    <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=eliakimceleste"><img src="https://github-profile-trophy.vercel.app/?username=eliakimceleste&theme=nord" alt="beethogedeon" /></a> </p>
+  </div>
+
 <!--
 **eliakimceleste/eliakimceleste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
