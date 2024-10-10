@@ -26,6 +26,10 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
         <img align="right" width=390
             src="https://github-readme-streak-stats.herokuapp.com?user=eliakimceleste&theme=codeSTACKr&hide_border=true&date_format=j/n/Y" />
     </a>
+    <a href="https://github.com/eliakimceleste/eliakimceleste" title="Go to Source">
+        <img align="right" width=390
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&theme=codeSTACKr&hide_border=true" />
+    </a>
 </div>
 <br><br><br><br><br><br><br><br><br>
 
