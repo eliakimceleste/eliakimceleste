@@ -4,7 +4,6 @@
          <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/7e675ea8-fabb-4fec-a006-1a0b6f4478fc" alt="HuggingFace">
         <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/5b25e63e-4838-45e4-b87f-ea5f734688af" alt="OpenCV">
         <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/8c167abf-edfc-4cd3-8a64-69a2064f19c3" alt="Langchain">
-        <img src="tensor.png" alt="Tensorflow">
         </p>
     </div>
 
