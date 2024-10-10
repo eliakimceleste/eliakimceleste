@@ -1,4 +1,7 @@
 ## Hi  👋
+
+<img align="right"  src='https://github.com/princeGedeon/ML-For-Beginners/blob/main/1-Introduction/1-intro-to-ML/images/ai-ml-ds.png' width='300'>
+
 <!-- <picture>
  <source media="(prefers-color-scheme: dark)" srcset="eli.jpg">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
