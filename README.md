@@ -56,6 +56,13 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
                         alt="Eliakim GOUNON" height="30" width="40" /></a>
 </p>
 
+<br>
+
+<h3 align="center">Github trophy</h3>
+
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=eliakimceleste)](https://github-profile-trophy.vercel.app/?username=eliakimceleste)
+
 <!-- START NEW SECTION -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -80,11 +87,8 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
                     alt="readme active graph" />
   </div>
 
-<br>
-<h3 align="center">Github trophy</h3>
 
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=eliakimceleste)](https://github-profile-trophy.vercel.app/?username=eliakimceleste)
 
 
 
