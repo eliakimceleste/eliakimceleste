@@ -32,7 +32,6 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
 <div >
     <p align="center">
         <a href="https://github.com/eliakimceleste/CodeWhiz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eliakimceleste&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=CodeWhiz" alt="Readme Card"></a>
-
     </p>
 </div>
 
@@ -40,9 +39,9 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
 
 <!-- START NEW SECTION -->
 <h3 align="center">Social links</h3>
-<div align="center">
-    [<img src='github.svg' alt='github' height='40'>](https://github.com/eliakimceleste) [<img src='link.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eliakimceleste) [<img src='insta.svg' alt='instagram' height='40'>](https://www.instagram.com/eliakim_celeste/?hl=fr/)  
-</div>
+<p align="center">
+[<img src='github.svg' alt='github' height='40'>](https://github.com/eliakimceleste)  [<img src='link.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eliakimceleste/)  [<img src='insta.svg' alt='instagram' height='40'>](https://www.instagram.com/eliakim_celeste/?hl=fr/)  
+</p>
 
 <!-- START NEW SECTION -->
 <div align="center">
