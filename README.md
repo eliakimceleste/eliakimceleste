@@ -20,11 +20,11 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
 <div align=center>
     <a href="https://github.com/eliakimceleste/eliakimceleste" title="Go to Source">
         <img align="left" width=390
-            src="https://github-readme-stats.vercel.app/api?username=eliakimceleste&show_icons=true&theme=codeSTACKr&hide_border=true"/>
+            src="https://github-readme-stats.vercel.app/api?username=eliakimceleste&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&since=2024-01-01T00:00:00Z"/"/>
     </a>
     <a href="https://github.com/eliakimceleste/eliakimceleste" title="Go to Source">
         <img align="right" width=390
-            src="https://github-readme-streak-stats.herokuapp.com?user=eliakimceleste&&date_format=M%20j%5B%2C%20Y%5D&theme=codeSTACKr&hide_border=true&date_format=j/n/Y" />
+            src="https://github-readme-streak-stats.herokuapp.com?user=eliakimceleste&&date_format=M%20j%5B%2C%20Y%5D&theme=codeSTACKr&hide_border=true" />
     </a>
   
 </div>
