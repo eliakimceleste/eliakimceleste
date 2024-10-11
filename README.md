@@ -33,7 +33,7 @@ Whatever the field, from **artificial intelligence** to **robotics**, including 
     </a>
     <a href="https://github.com/eliakimceleste/eliakimceleste" title="Go to Source">
         <img align="right" width=390
-            src="https://github-readme-streak-stats.herokuapp.com?user=eliakimceleste&date_format=M%20j%5B%2C%20Y%5D&theme=codeSTACKr&hide_border=true&date_format=j/n/Y" />
+            src="https://github-readme-streak-stats.herokuapp.com/?user=eliakimceleste&date_format=M%20j%5B%2C%20Y%5D&theme=codeSTACKr&hide_border=true&date_format=j/n/Y" />
     </a>
   
 </div>
