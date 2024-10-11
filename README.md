@@ -9,7 +9,7 @@
 
 ## Hi  👋 I'm Eliakim GOUNON😎
 
-<img align="right"  src='https://github.com/eliakimceleste/ML-For-Beginners/blob/main/1-Introduction/1-intro-to-ML/images/ai-ml-ds.png' width='300'>
+<img align="right"  src='https://github.com/princegedeon/ML-For-Beginners/blob/main/1-Introduction/1-intro-to-ML/images/ai-ml-ds.png' width='300'>
 
 ### Machine Learning Specialist,Python Developper ,NestJS
 
